@@ -1,7 +1,7 @@
 # Fusion For Energy
 Welcome to Fusion For Energy GitHub organization. Below, you can find details on the different repositories hosted here.
 
-## Neutronics#
+## Neutronics
 
 The following tools are developed and mantained by the F4E neutronics team:
 
