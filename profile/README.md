@@ -11,4 +11,7 @@ The following tools are developed and mantained by the F4E neutronics team:
 - [DoseMap-calculator](https://github.com/Fusion4Energy/DoseMap-calculator), a practical tool to obtain doses of a component travelling through a radiation field.
 - [iMCNP_Source](https://github.com/Fusion4Energy/iMCNP_Source), a script that creates a complete MCNP sdef card for a set of pipes containing activated water.
 
-F4E neutronics team is also one of the main contributors to the [JADE project](https://github.com/JADE-V-V) which is related to the verification and validation (V&V) of nuclear data libraries. The project has his own independent GitHub organization.
+F4E neutronics team is also one of the main contributors to other two projects that have their own independent GitHub organizations:
+- [JADE](https://github.com/JADE-V-V) which is related to the verification and validation (V&V) of nuclear data libraries.
+- [GEOUNED](https://github.com/GEOUNED-org/GEOUNED) which is related to conversion from CAD to CSG geometry (and viceversa) for Monte Carlo transport application. 
+
