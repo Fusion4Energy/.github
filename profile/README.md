@@ -11,6 +11,7 @@ The following tools are developed and mantained by the F4E neutronics team:
 - [RadModeling](https://github.com/Fusion4Energy/RadModeling), a package grouping a set of useful IronPython routines to manipulate/analyse/modify CAD files in SpaceClaim environment.
 - [DoseMap-calculator](https://github.com/Fusion4Energy/DoseMap-calculator), a practical tool to obtain doses of a component travelling through a radiation field.
 - [iMCNP_Source](https://github.com/Fusion4Energy/iMCNP_Source), a script that creates a complete MCNP sdef card for a set of pipes containing activated water.
+- [Gitronics](https://github.com/Fusion4Energy/gitronics) a tool to manage and automatically build an MCNP model from a set of files. Useful to manage the development of complex models in a collaborative way.
 
 F4E neutronics team is also one of the main contributors to other two projects that have their own independent GitHub organizations:
 - [JADE](https://github.com/JADE-V-V) which is related to the verification and validation (V&V) of nuclear data libraries.
