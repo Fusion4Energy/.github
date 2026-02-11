@@ -16,3 +16,8 @@ F4E neutronics team is also one of the main contributors to other two projects t
 - [JADE](https://github.com/JADE-V-V) which is related to the verification and validation (V&V) of nuclear data libraries.
 - [GEOUNED](https://github.com/GEOUNED-org/GEOUNED) which is related to conversion from CAD to CSG geometry (and viceversa) for Monte Carlo transport application. 
 
+## Mechanical
+
+The following tools are developed by the F4E mechanical team:
+
+- [EM-interpolator](https://github.com/Fusion4Energy/EM-interpolator) a python package that provides a GUI interface to interpolate EM forces on mechanical meshes.
