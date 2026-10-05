@@ -22,5 +22,7 @@ F4E neutronics team is also one of the main contributors to other two projects t
 
 The following tools are developed by the F4E mechanical team:
 
+- [CASSY](https://github.com/Fusion4Energy/CASSY) a python package which allows to configure and execute structural integrity assessments according to different design codes. GUI based, but scripting for advanced users is avaialable.
 - [EM-interpolator](https://github.com/Fusion4Energy/EM-interpolator) a python package that provides a GUI interface to interpolate EM forces on mechanical meshes.
 - [InterpCore](https://github.com/Fusion4Energy/InterpCore) a python library for interpolating physical field data (electromagnetic forces, heat flux, etc.) between different mesh representations and exporting to ANSYS APDL format.
+
